@@ -41,6 +41,14 @@ npm run start:prod
 
 La aplicación arranca en `http://localhost:3001`
 
+### 📖 Documentación Swagger
+
+Una vez iniciada la aplicación, la documentación interactiva está disponible en:
+
+**http://localhost:3001/api**
+
+Swagger UI permite probar todos los endpoints directamente desde el navegador.
+
 ## 🧪 Ejecutar pruebas
 
 ```bash
